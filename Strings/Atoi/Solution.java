@@ -33,3 +33,9 @@ public class Solution {
         return neg ? -1*(int)res : (int)res;
     }
 }
+
+
+// Corner cases:
+// -99954Dafv lkkfl = -99954
+// +7 = 7
+// -45671532469874562146ffssgg = Integer MIN VAL
